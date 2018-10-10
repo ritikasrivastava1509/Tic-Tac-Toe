@@ -1,3 +1,3 @@
 import App from './App'
-
-export { App }
+import Board from './Board'
+export { App, Board }
